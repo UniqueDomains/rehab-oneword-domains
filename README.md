@@ -72,10 +72,10 @@ print(df.head())
 | good.rehab      | premium   | $123.75   | $123.75       | 82             | 55     | 4      | name.com                                    |
 | big.rehab       | available | $14.99    | $52.99        | 88             | 47     | 3      | name.com                                    |
 | book.rehab      | resell    | —         | —             | 82             | 55     | 4      | GoDaddy.com, LLC                            |
-| fast.rehab      | premium   | $123.75   | $123.75       | 82             | 53     | 4      | name.com                                    |
+| art.rehab       | premium   | $1,300    | $1,300        | 90             | 52     | 3      | namecheap                                   |
 | trade.rehab     | available | $47.48    | —             | 116            | 46     | 5      | namecheap                                   |
 | for.rehab       | resell    | —         | —             | 80             | 49     | 3      | GoDaddy Online Services Cayman Islands Ltd. |
-| art.rehab       | premium   | $1,300    | $1,300        | 90             | 52     | 3      | namecheap                                   |
+| fast.rehab      | premium   | $123.75   | $123.75       | 82             | 52     | 4      | name.com                                    |
 | only.rehab      | available | $14.99    | $52.99        | 110            | 46     | 4      | name.com                                    |
 | yes.rehab       | resell    | —         | —             | 132            | 46     | 3      | Dynadot Inc                                 |
 | athletics.rehab | premium   | $260      | $260          | 69             | 52     | 9      | namecheap                                   |
@@ -83,7 +83,7 @@ print(df.head())
 | super.rehab     | resell    | —         | —             | 58             | 45     | 5      | Dynadot Inc                                 |
 | one.rehab       | premium   | $1,250    | $1,250        | 132            | 50     | 3      | name.com                                    |
 | genius.rehab    | available | $14.99    | $52.99        | 98             | 45     | 6      | name.com                                    |
-| elite.rehab     | resell    | —         | —             | 90             | 43     | 5      | Sav.com, LLC - 22                           |
+| elite.rehab     | resell    | —         | —             | 90             | 42     | 5      | Sav.com, LLC - 22                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
