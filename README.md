@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .rehab one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,671 domains · **Median ask:** $36.36 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/rehab`  
 **Best for:** founders, investors, studios
 
@@ -71,7 +71,7 @@ print(df.head())
 | QandA.rehab       | available | $47.48    | —             | 80             | 10     | 7      | namecheap        |
 | toneup.rehab      | available | $14.99    | —             | 80             | 5      | 7      | name.com         |
 | hangon.rehab      | available | $14.99    | —             | 82             | 6      | 7      | name.com         |
-| makeit.rehab      | available | $14.99    | —             | 82             | 22     | 7      | name.com         |
+| makeit.rehab      | available | $14.99    | —             | 82             | 21     | 7      | name.com         |
 | stirup.rehab      | available | $14.99    | —             | 82             | 3      | 7      | name.com         |
 | Ryan.rehab        | available | $47.48    | —             | 60             | 44     | 4      | namecheap        |
 | brands.rehab      | resell    | —         | —             | 62             | 28     | 6      | GoDaddy.com, LLC |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REHAB One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REHAB One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
