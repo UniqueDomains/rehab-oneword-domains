@@ -80,7 +80,7 @@ print(df.head())
 | homes.rehab       | premium   | $250      | —             | 86             | 34     | 5      | name.com         |
 | prompts.rehab     | available | $14.99    | —             | 54             | 39     | 7      | name.com         |
 | doctors.rehab     | premium   | $250      | —             | 56             | 26     | 7      | name.com         |
-| etc.rehab         | available | $14.99    | —             | 58             | 34     | 3      | name.com         |
+| etc.rehab         | available | $14.99    | —             | 58             | 32     | 3      | name.com         |
 | restaurants.rehab | premium   | $82.50    | —             | 57             | 21     | 11     | name.com         |
 | rewards.rehab     | available | $14.99    | —             | 62             | 30     | 7      | name.com         |
 | studios.rehab     | premium   | $250      | —             | 54             | 21     | 7      | name.com         |
