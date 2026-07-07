@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .rehab one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,671 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,671 domains · **Median ask:** $36.36 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,671 domains · **Median ask:** $36.47 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/rehab`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/rehab`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .REHAB one-word domain
 
 ### Files
 
-- `rehab.csv` — public CSV extract (1,000 rows)
-- `rehab.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `rehab.csv`, public CSV extract (1,000 rows)
+- `rehab.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| tips.rehab        | available | $14.99    | —             | 80             | 26     | 4      | name.com         |
-| Acup.rehab        | available | $47.48    | —             | 80             | 5      | 5      | namecheap        |
-| geton.rehab       | available | $14.99    | —             | 82             | 10     | 6      | name.com         |
-| playin.rehab      | available | $14.99    | —             | 80             | 10     | 7      | name.com         |
-| QandA.rehab       | available | $47.48    | —             | 80             | 10     | 7      | namecheap        |
-| toneup.rehab      | available | $14.99    | —             | 80             | 5      | 7      | name.com         |
-| hangon.rehab      | available | $14.99    | —             | 82             | 6      | 7      | name.com         |
-| makeit.rehab      | available | $14.99    | —             | 82             | 21     | 7      | name.com         |
-| stirup.rehab      | available | $14.99    | —             | 82             | 3      | 7      | name.com         |
-| Ryan.rehab        | available | $47.48    | —             | 60             | 44     | 4      | namecheap        |
-| brands.rehab      | resell    | —         | —             | 62             | 28     | 6      | GoDaddy.com, LLC |
-| Tools.rehab       | premium   | $138.60   | $138.60       | 56             | 40     | 5      | namecheap        |
-| shortcuts.rehab   | available | $14.99    | —             | 48             | 41     | 10     | name.com         |
-| homes.rehab       | premium   | $250      | —             | 86             | 34     | 5      | name.com         |
-| prompts.rehab     | available | $14.99    | —             | 54             | 39     | 7      | name.com         |
-| doctors.rehab     | premium   | $250      | —             | 56             | 26     | 7      | name.com         |
-| etc.rehab         | available | $14.99    | —             | 58             | 32     | 3      | name.com         |
-| restaurants.rehab | premium   | $82.50    | —             | 57             | 21     | 11     | name.com         |
-| rewards.rehab     | available | $14.99    | —             | 62             | 30     | 7      | name.com         |
-| studios.rehab     | premium   | $250      | —             | 54             | 21     | 7      | name.com         |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| bid.rehab  | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| job.rehab  | premium   | $1,250    | —             | high           | low    | 3      | name.com  |
+| bug.rehab  | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| auto.rehab | premium   | $260      | $260          | medium         | medium | 4      | namecheap |
+| CNN.rehab  | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| beat.rehab | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo  |
+| era.rehab  | available | $14.99    | —             | high           | medium | 3      | name.com  |
+| fund.rehab | premium   | $242      | $242          | high           | low    | 4      | namesilo  |
+| him.rehab  | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| golf.rehab | premium   | $82.50    | —             | high           | medium | 4      | name.com  |
+| how.rehab  | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| good.rehab | premium   | $123.75   | $123.75       | high           | medium | 4      | name.com  |
+| jot.rehab  | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| info.rehab | premium   | $1,107    | $1,107        | high           | medium | 4      | namesilo  |
+| lay.rehab  | available | $14.99    | —             | medium         | low    | 3      | name.com  |
+| kiev.rehab | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo  |
+| mao.rehab  | available | $14.99    | —             | medium         | low    | 3      | name.com  |
+| legs.rehab | premium   | $242      | $242          | high           | low    | 4      | namesilo  |
+| may.rehab  | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| pill.rehab | premium   | $250      | —             | medium         | low    | 4      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely .rehab, so the main question is not extension choice but word quality inside a specialized TLD. Strong names tend to match recovery, treatment, physical therapy, counseling, or wellness intent without sounding vague or forced. Examples such as tips.rehab, Acup.rehab, and geton.rehab show the range from literal to more flexible terms. When comparing these domains, check whether the word is easy to say, easy to spell, and credible in a health-related context. The median ask is 36.36, but price alone is not enough. A cheaper name can still be weaker if the term feels unclear, awkward, or exposed to trademark conflict.
+This list covers 12,671 one-word .REHAB domain names, including short, memorable terms such as dogstail, matcha, getup, edamame, and keepfit. Pricing runs low, with a median ask near $36.47, making it easy to compare options and shortlist names for wellness, recovery, and health-focused brands. Because the .REHAB extension is niche, availability and renewal costs vary by registrar, so it pays to verify each domain before committing.
 
-- Prioritize clear words that fit recovery or treatment use
-- Check if the term stays credible inside a .rehab ending
-- Use median ask 36.36 as a rough price reference point
-- Avoid words with likely trademark or ambiguity issues
+- 12,671 one-word .REHAB domain names in this selection
+- Median ask near $36.47 across this list
+- Includes short, brandable terms like matcha, getup, and keepfit
+- Niche wellness TLD — verify renewal pricing before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REHAB One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REHAB One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
