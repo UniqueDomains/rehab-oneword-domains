@@ -1,10 +1,10 @@
-# Available .REHAB One-Word Domains (12,671)
+# Available .REHAB One-Word Domains (12,673)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C671%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C673%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .rehab one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,671 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,673 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,671 domains · **Median ask:** $36.47 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,673 domains · **Median ask:** $34.51 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/rehab`
 **Best for:** founders, investors, studios
 
@@ -70,19 +70,19 @@ print(df.head())
 | auto.rehab | premium   | $260      | $260          | medium         | medium | 4      | namecheap |
 | CNN.rehab  | available | $14.99    | —             | high           | low    | 3      | name.com  |
 | beat.rehab | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo  |
-| era.rehab  | available | $14.99    | —             | high           | medium | 3      | name.com  |
+| cxx.rehab  | available | $14.99    | $52.99        | low            | low    | 3      | name.com  |
 | fund.rehab | premium   | $242      | $242          | high           | low    | 4      | namesilo  |
-| him.rehab  | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| era.rehab  | available | $14.99    | —             | high           | medium | 3      | name.com  |
 | golf.rehab | premium   | $82.50    | —             | high           | medium | 4      | name.com  |
-| how.rehab  | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| him.rehab  | available | $14.99    | —             | high           | low    | 3      | name.com  |
 | good.rehab | premium   | $123.75   | $123.75       | high           | medium | 4      | name.com  |
-| jot.rehab  | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| how.rehab  | available | $14.99    | —             | high           | low    | 3      | name.com  |
 | info.rehab | premium   | $1,107    | $1,107        | high           | medium | 4      | namesilo  |
-| lay.rehab  | available | $14.99    | —             | medium         | low    | 3      | name.com  |
+| ixl.rehab  | available | $14.99    | $52.99        | low            | low    | 3      | name.com  |
 | kiev.rehab | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo  |
-| mao.rehab  | available | $14.99    | —             | medium         | low    | 3      | name.com  |
+| jot.rehab  | available | $14.99    | —             | high           | low    | 3      | name.com  |
 | legs.rehab | premium   | $242      | $242          | high           | low    | 4      | namesilo  |
-| may.rehab  | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| lay.rehab  | available | $14.99    | —             | medium         | low    | 3      | name.com  |
 | pill.rehab | premium   | $250      | —             | medium         | low    | 4      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,671 live domains                        |
+| 1,000-row public sample | 12,673 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REHAB One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REHAB One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
