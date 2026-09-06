@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .rehab one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,782 domains · **Median ask:** $28.14 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/rehab`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| away.rehab | available | $14.99    | —             | high           | low    | 4      | name.com  |
 | bid.rehab  | available | $14.99    | —             | high           | low    | 3      | name.com  |
 | job.rehab  | premium   | $1,250    | —             | high           | low    | 3      | name.com  |
 | bug.rehab  | available | $14.99    | —             | high           | low    | 3      | name.com  |
@@ -84,6 +83,7 @@ print(df.head())
 | jot.rehab  | available | $14.99    | —             | high           | low    | 3      | name.com  |
 | legs.rehab | premium   | $242      | $242          | high           | low    | 4      | namesilo  |
 | lay.rehab  | available | $14.99    | —             | medium         | low    | 3      | name.com  |
+| pill.rehab | premium   | $250      | —             | medium         | low    | 4      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REHAB One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REHAB One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
