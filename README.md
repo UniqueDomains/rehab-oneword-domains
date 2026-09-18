@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .rehab one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,434 domains · **Median ask:** $29.83 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/rehab`
 **Best for:** founders, investors, studios
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REHAB One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REHAB One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
