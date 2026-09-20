@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .rehab one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,636 domains · **Median ask:** $31.28 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/rehab`
 **Best for:** founders, investors, studios
 
@@ -68,14 +68,14 @@ print(df.head())
 | job.rehab  | premium   | $1,250    | —             | high           | low    | 3      | name.com  |
 | bug.rehab  | available | $14.99    | —             | high           | low    | 3      | name.com  |
 | auto.rehab | premium   | $260      | $260          | medium         | medium | 4      | namecheap |
-| CNN.rehab  | available | $14.99    | —             | high           | low    | 3      | name.com  |
+| cnn.rehab  | available | $14.99    | —             | high           | low    | 3      | name.com  |
 | beat.rehab | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo  |
 | cxx.rehab  | available | $14.99    | $52.99        | low            | low    | 3      | name.com  |
-| fund.rehab | premium   | $242      | $242          | high           | low    | 4      | namesilo  |
+| fund.rehab | premium   | $242      | $242          | medium         | low    | 4      | namesilo  |
 | era.rehab  | available | $14.99    | —             | high           | medium | 3      | name.com  |
 | golf.rehab | premium   | $82.50    | —             | high           | medium | 4      | name.com  |
 | him.rehab  | available | $14.99    | —             | high           | low    | 3      | name.com  |
-| good.rehab | premium   | $118.80   | $118.80       | medium         | medium | 4      | namesilo  |
+| good.rehab | premium   | $128.70   | $128.70       | medium         | low    | 4      | namecheap |
 | how.rehab  | available | $14.99    | —             | high           | low    | 3      | name.com  |
 | info.rehab | premium   | $1,107    | $1,107        | high           | medium | 4      | namesilo  |
 | ixl.rehab  | available | $14.99    | $52.99        | low            | low    | 3      | name.com  |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REHAB One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REHAB One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

@@ -25,7 +25,7 @@ a96f8acf-2cbf-4bfe-aa76-714d494a355f,micro.rehab,available,14.99,,medium,medium,
 32f315f3-88ff-422e-80da-50372b158741,sat.rehab,available,14.99,,high,low,3,name.com,,,
 06d0dd54-cfe7-4c56-8562-38e2ad718d63,threescore.rehab,available,14.99,52.99,low,low,10,name.com,,,
 ddb1c1f6-f1b1-47a4-9c40-8fe364cb3bdd,redapple.rehab,available,14.99,,high,low,9,name.com,,,
-34b769c5-ecb8-44fb-b64a-dda608437b23,WestHill.rehab,available,14.99,,low,low,9,name.com,,,
+34b769c5-ecb8-44fb-b64a-dda608437b23,westhill.rehab,available,14.99,,low,low,9,name.com,,,
 a280694b-7f9a-45ea-bb9d-dfd7b5c57744,adulterant.rehab,available,14.99,52.99,low,low,10,name.com,,,
 9554df28-1aa8-4be5-92ca-7df8d18bec18,prejudice.rehab,available,14.99,,high,low,9,name.com,,,
 3e077e21-b4f1-47fa-9378-59928e1b9993,nonsexual.rehab,available,14.99,52.99,low,low,9,name.com,,,07/08/2026 01:38
@@ -46,7 +46,7 @@ e6b55d5b-641d-49f5-867c-b26b4007af57,embayment.rehab,available,14.99,52.99,low,l
 71e713f9-061d-47d0-a524-343df97c0c07,bathe.rehab,available,14.99,,high,low,5,name.com,,,
 4375cfd2-e5a3-41fe-a0f8-ade539afa14e,tested.rehab,available,14.99,,high,low,6,name.com,,,
 2b5477ea-d525-4717-a6d7-9a045fd7df04,chin.rehab,available,14.99,,medium,low,4,name.com,,,
-b1588ecf-e08d-4320-96c5-4264bc5cd1e5,Mastercard.rehab,available,,,high,low,10,,,,
+b1588ecf-e08d-4320-96c5-4264bc5cd1e5,mastercard.rehab,available,,,high,low,10,,,,
 db152c63-2a47-482a-8256-a002efb36c2b,ace.rehab,available,,,high,medium,3,,,,
 3558458b-fa23-46a3-8df9-71bf4f52ad96,givethanks.rehab,available,14.99,,medium,low,11,name.com,,,
 43a27a8c-d4b3-4939-a1ce-f2f16389d5fd,cinnamon.rehab,available,14.99,,medium,low,8,name.com,,,
@@ -108,7 +108,7 @@ f56f81ae-7371-4479-9b85-5a80c0625019,clever.rehab,available,14.99,,high,low,6,na
 9e7e58bf-a0ac-4a56-88e1-9ae182c6f52c,springfor.rehab,available,14.99,,low,low,10,name.com,,,
 fedd8c68-d90d-4f0c-b4cb-6b5458fd099f,psycho.rehab,available,14.99,,high,low,6,name.com,,,
 737047bd-5fba-4203-85b3-69df364494d9,glittery.rehab,available,14.99,52.99,low,low,8,name.com,,,
-e017d7ae-9d16-4486-b2cd-6bd4e83d02f2,CNN.rehab,available,14.99,,high,low,3,name.com,,,
+e017d7ae-9d16-4486-b2cd-6bd4e83d02f2,cnn.rehab,available,14.99,,high,low,3,name.com,,,
 3fc8cf84-cad3-4baf-b60d-aa8bad17c888,expect.rehab,available,14.99,,high,low,6,name.com,,,
 a4cfb018-a9ca-48f3-84ff-f5ef3f25dfce,auricular.rehab,available,14.99,52.99,low,low,9,name.com,,,07/08/2026 17:46
 c6d26315-495d-4c8e-8c18-0456158c4e75,makethefirstmove.rehab,available,14.99,,high,low,19,name.com,,,
@@ -120,7 +120,7 @@ f9420f45-6ce2-49bc-bf10-9ced2a755c64,allmetal.rehab,available,14.99,52.99,low,lo
 4fd37975-0052-4f74-ae80-bd34ae055e4c,cocksucker.rehab,available,14.99,52.99,low,low,10,name.com,,,08/08/2026 23:29
 6baea939-b6a1-41d1-ace4-1c1b700ec7e5,intended.rehab,available,14.99,,high,low,8,name.com,,,
 dc3d9e39-9ddd-4f0a-bfde-b1f7de128e62,hours.rehab,available,14.99,,medium,low,5,name.com,,,
-f9d96c29-192c-4fbf-8493-c254b3f34725,NorthAmerican.rehab,available,14.99,,low,low,14,name.com,,,
+f9d96c29-192c-4fbf-8493-c254b3f34725,northamerican.rehab,available,14.99,,low,low,14,name.com,,,
 4502157a-2694-43e5-b2e7-0b58f231a732,modernistcuisine.rehab,available,14.99,,high,low,17,name.com,,,
 6ad3fec5-36bc-400d-8967-6e583e5e0ee4,solong.rehab,available,14.99,,medium,low,7,name.com,,,
 f272c816-64ae-4ace-9bfc-564d7e9d3120,roundabout.rehab,available,14.99,52.99,low,low,11,name.com,,,12/08/2026 08:20
@@ -138,14 +138,13 @@ ea217f80-e0f6-464d-8615-df43e487a92a,fullscale.rehab,available,14.99,52.99,high,
 9e3b2bbe-438a-4b97-bdfa-bbaed567f6e2,bedrid.rehab,available,14.99,52.99,low,low,6,name.com,,,09/08/2026 07:07
 4f97eddb-5ec2-4d33-8fee-5efb2ac37ab5,joking.rehab,available,14.99,,high,low,6,name.com,,,
 a949cb12-5d99-4275-804d-de5b8d8de81e,cube.rehab,available,14.99,,high,medium,4,name.com,,,
-e483f440-16a6-4ba8-99c2-d0cd66ef89c1,UnionCity.rehab,available,14.99,,low,low,10,name.com,,,
+e483f440-16a6-4ba8-99c2-d0cd66ef89c1,unioncity.rehab,available,14.99,,low,low,10,name.com,,,
 c6a952b0-c66e-4973-86ad-0b2a82695570,reveal.rehab,available,14.99,,high,low,6,name.com,,,
 9b26bf98-b563-4133-8741-f0e851263026,hackneyed.rehab,available,14.99,52.99,low,low,9,name.com,,,08/08/2026 10:56
 09beb785-09b6-459a-96b7-8d7eed939c17,investor.rehab,premium,242,242,high,medium,8,namesilo,,,
 5e6077cd-371e-4e6c-912e-166d366389bc,dishwasher.rehab,available,14.99,,high,low,10,name.com,,,
 75de12f7-ca1f-488d-a8b8-27df775a182a,uproar.rehab,available,14.99,,high,low,6,name.com,,,
 094617a0-95ec-4f5c-bc2d-01a21a9ae2d6,closeofplay.rehab,available,14.99,,high,low,13,name.com,,,
-93fed6cb-c640-45e7-b78b-6fcf3b1b3c96,enterprise.rehab,available,,,medium,low,10,,,,
 328a78fc-5ee3-49db-9b8a-f2bc0d055d41,footballmatch.rehab,available,14.99,,high,low,14,name.com,,,
 ec158660-dbe1-413c-9041-85381891cb4d,roi.rehab,available,14.99,,high,low,3,name.com,,,
 59f63c35-3c49-4558-9535-62f48d4e3490,boundary.rehab,available,14.99,,medium,low,8,name.com,,,
@@ -153,11 +152,11 @@ ec158660-dbe1-413c-9041-85381891cb4d,roi.rehab,available,14.99,,high,low,3,name.
 b62492ec-eed5-482b-8b3f-03359a341d86,quality.rehab,premium,78.54,78.54,high,low,7,namesilo,,,
 02354105-8dde-4ffe-b51e-c5ab8745c422,proclaimed.rehab,available,14.99,,medium,low,10,name.com,,,
 2bbda89f-a6bb-4071-9779-4bcf3d5a3fbc,livid.rehab,available,14.99,52.99,low,low,5,name.com,,,07/08/2026 02:24
-ec408ae9-1313-46ea-9059-28929bcbfca5,fixitagainTony.rehab,available,14.99,,medium,low,17,name.com,,,
+ec408ae9-1313-46ea-9059-28929bcbfca5,fixitagaintony.rehab,available,14.99,,medium,low,17,name.com,,,
 244c564d-3c3c-45f3-8089-7ba9176e3c53,havethelastlaugh.rehab,available,14.99,,high,low,19,name.com,,,
 c74b2eb0-a276-4c2f-bd4f-86775b682570,childneglect.rehab,available,14.99,,medium,low,13,name.com,,,
 4f459515-f63d-4507-8b14-dd31272f1085,pointless.rehab,available,14.99,,medium,low,9,name.com,,,
-e71915fa-ef55-4bf0-be29-c59417be371c,medicine.rehab,premium,1107,1107,high,low,8,namesilo,,,
+e71915fa-ef55-4bf0-be29-c59417be371c,medicine.rehab,premium,1107,1107,medium,low,8,namesilo,,,20/09/2026 02:42
 6e915443-ffee-4d73-a412-8eeb9e847183,perfect.rehab,available,14.99,,high,low,7,name.com,,,
 1610866a-4697-4466-bf3c-9a2385982238,agrarian.rehab,available,14.99,52.99,low,low,8,name.com,,,
 3dc0bfd0-c542-4bf5-8040-550e5645f122,coach.rehab,available,,,high,low,5,,,,
@@ -171,7 +170,7 @@ e7510312-f84b-43cb-ab25-67836c022dd8,standing.rehab,available,14.99,,medium,low,
 b7322a93-98c7-4111-bf73-fe6e109d13c6,roads.rehab,available,14.99,,high,low,5,name.com,,,
 a3e77ecc-7fff-4452-8462-e08deb5946d9,tracked.rehab,available,14.99,,medium,low,7,name.com,,,
 2c0c7506-6245-46d5-8d6e-6fbd2f0cc395,struggle.rehab,available,14.99,,high,low,8,name.com,,,
-9bba4c29-0d12-4118-89bb-865b978d0181,RedSquare.rehab,available,14.99,,low,low,10,name.com,,,
+9bba4c29-0d12-4118-89bb-865b978d0181,redsquare.rehab,available,14.99,,low,low,10,name.com,,,
 4ff6381b-e36c-44c6-a1e1-e86b93b39a02,supra.rehab,available,14.99,52.99,medium,low,5,name.com,,,
 c078507d-a718-4292-bd3e-a96439d8837a,fruitvegetable.rehab,available,14.99,,high,low,15,name.com,,,
 bb423c48-7823-409d-a258-c9ef82db65b8,saucer.rehab,available,14.99,,high,low,6,name.com,,,
@@ -186,7 +185,7 @@ c6886f3b-fa13-4a58-8eb8-68ca37072878,speedofsound.rehab,available,14.99,,low,low
 de05b5ae-a25b-4040-95f3-35b08dfd1e0e,dances.rehab,available,14.99,,medium,low,6,name.com,,,
 f5fc1f8a-f9aa-4cb0-9cc2-0d1906afe91c,may.rehab,available,14.99,,high,low,3,name.com,,,
 d4239a52-b96b-4970-9f0d-cebbb757ed7b,withregardsto.rehab,available,14.99,,medium,low,15,name.com,,,
-1c1e134e-0dc5-4e27-913f-e5fd782826ff,nontoxic.rehab,available,14.99,52.99,low,low,8,name.com,,,07/08/2026 13:59
+1c1e134e-0dc5-4e27-913f-e5fd782826ff,nontoxic.rehab,available,38.48,47.48,medium,low,8,namecheap,,,18/09/2026 21:11
 4e98458f-e767-4563-ac61-ec801fef6d7e,telecom.rehab,available,14.99,,high,low,7,name.com,,,
 26674e91-686f-4fbc-af27-783e01e4bd95,uppercase.rehab,available,14.99,,high,low,9,name.com,,,
 18ce01a0-b0a2-4e4a-8c98-6075a472b53c,deterioration.rehab,available,14.99,,medium,low,13,name.com,,,
@@ -212,7 +211,6 @@ a0fe83bc-7f04-44cf-8fb3-10706a8cc34e,mature.rehab,available,14.99,,high,low,6,na
 99c7eb65-7e50-484c-aad6-5acadb8812f2,noseabout.rehab,available,14.99,,low,low,10,name.com,,,
 f7ed5df8-f80b-4f3c-8eed-a38e4222e0d8,guest.rehab,available,14.99,,high,low,5,name.com,,,
 7f6bbf83-7929-4ee2-a068-3c86cfb90209,letterofwishes.rehab,available,14.99,,high,low,16,name.com,,,
-d30cd498-e6ad-4535-a04b-8511e2f8896c,OldWorld.rehab,available,14.99,,low,low,9,name.com,,,
 85bc0913-039d-48d4-a3d6-f8dfdcee0b47,panoramic.rehab,available,14.99,,high,low,9,name.com,,,
 c1735333-c9db-43eb-ab08-c1defeb45100,maintain.rehab,available,14.99,,high,low,8,name.com,,,
 f703e0c4-2003-4373-bbb9-d0aecd5a9588,pyjamaparty.rehab,available,14.99,,high,low,12,name.com,,,
@@ -220,7 +218,7 @@ f703e0c4-2003-4373-bbb9-d0aecd5a9588,pyjamaparty.rehab,available,14.99,,high,low
 b4d5a159-bc6e-473e-a70a-5a5a10e0c65c,diminishing.rehab,available,14.99,,high,low,11,name.com,,,
 4aeb89bf-e336-4ccb-9a8a-4950759e5d54,corps.rehab,available,14.99,,high,low,5,name.com,,,
 03effe0a-8074-4d71-9116-23ea3ab3573e,charge.rehab,available,14.99,,high,low,6,name.com,,,
-b8a97f1d-25bf-4e03-985e-9c8189d5e7e3,Uber.rehab,available,,,high,low,4,,,,
+b8a97f1d-25bf-4e03-985e-9c8189d5e7e3,uber.rehab,available,,,high,low,4,,,,
 0b3e62af-9857-473c-b56b-8811d62bae08,enrich.rehab,available,14.99,,high,low,6,name.com,,,
 5f0f0ed1-5c63-4bfb-beb7-fc09a8f8525e,omen.rehab,available,14.99,,high,low,4,name.com,,,
 68354c1a-7d39-4a34-9e3c-d503ef8ee054,backed.rehab,available,14.99,52.99,low,low,6,name.com,,,08/08/2026 05:33
@@ -244,9 +242,9 @@ e3a7253e-f798-4c68-ba31-4dc9fdd68e22,spicy.rehab,available,14.99,,high,low,5,nam
 e8d74824-027f-4b6d-b285-1e0fa3573e75,adsorbate.rehab,available,14.99,52.99,low,low,9,name.com,,,
 c2ba7b5c-a759-47bd-9adc-99e4e58e7a73,scratched.rehab,available,14.99,,medium,low,9,name.com,,,
 e5c1d4b0-3ea0-4a0b-b857-9e4ea8fc588d,beefy.rehab,available,14.99,52.99,low,low,5,name.com,,,09/08/2026 07:49
-f1069d2c-793b-4b5b-8cef-d5361301285a,WorldWarII.rehab,available,14.99,,low,low,12,name.com,,,
+f1069d2c-793b-4b5b-8cef-d5361301285a,worldwarii.rehab,available,14.99,,low,low,12,name.com,,,
 4a8a64e5-adf7-4118-9741-8a4877708c25,toothenamel.rehab,available,14.99,,low,low,12,name.com,,,
-5a8b883a-dedf-4b25-b271-830dbdb8c8ce,AmericanEnglish.rehab,available,14.99,,high,low,16,name.com,,,
+5a8b883a-dedf-4b25-b271-830dbdb8c8ce,americanenglish.rehab,available,14.99,,high,low,16,name.com,,,
 59ec8935-74a0-4aa4-8d68-bb70e76f1a22,attenuated.rehab,available,14.99,52.99,low,low,10,name.com,,,07/08/2026 15:27
 66652e02-5f4e-46c6-ab26-32d6c2ae8ebb,ford.rehab,available,,,high,low,4,,,,
 e51a0a05-d824-4041-8aa2-d5ff743c1625,abundantly.rehab,available,14.99,,medium,low,10,name.com,,,
@@ -260,7 +258,7 @@ e1860a9c-d381-48de-ba16-021b47463877,furious.rehab,available,14.99,52.99,low,low
 7d03829b-4923-4ee4-8663-bc0143da6864,graywolf.rehab,available,14.99,,high,low,9,name.com,,,
 d14c0c35-df00-4357-9b04-44d32cef532d,azotic.rehab,available,14.99,52.99,low,low,6,name.com,,,08/08/2026 02:53
 9cfd88e7-e770-47ea-a2bc-8c8c830029e5,xxxi.rehab,available,14.99,52.99,low,low,4,name.com,,,
-0895d1ec-cc0d-4209-a752-0686a0594bca,Romannumerals.rehab,available,14.99,,low,low,14,name.com,,,
+0895d1ec-cc0d-4209-a752-0686a0594bca,romannumerals.rehab,available,14.99,,low,low,14,name.com,,,
 5aac2168-f7a8-4044-9a4f-dd87e37afd77,instal.rehab,available,14.99,,high,low,6,name.com,,,
 753b87a3-0b11-4e50-ae88-134c484c39ff,wandering.rehab,available,14.99,,high,low,9,name.com,,,
 bf5375df-8ba9-42f7-a0cf-211449fb4af6,aggregated.rehab,available,14.99,52.99,low,low,10,name.com,,,
@@ -271,7 +269,7 @@ ad4fd46c-8988-4bbb-bf0f-f71175f90c30,died.rehab,available,14.99,,medium,low,4,na
 ef3ae1ea-57ea-4650-977a-65b6766765f5,archaistic.rehab,available,14.99,52.99,low,low,10,name.com,,,06/08/2026 15:21
 1d6f8507-58b7-419d-a30a-ee41ddc55a7d,atthispoint.rehab,available,14.99,,medium,low,13,name.com,,,
 7258a489-e66e-47e2-9fd2-dcfb897ac99c,aligning.rehab,available,14.99,52.99,low,low,8,name.com,,,
-68e2c6ce-ff5f-4261-8b05-00f0b5e089a7,SouthAmerican.rehab,available,14.99,,low,low,14,name.com,,,
+68e2c6ce-ff5f-4261-8b05-00f0b5e089a7,southamerican.rehab,available,14.99,,low,low,14,name.com,,,
 ecab8cb9-a5f2-47ed-9148-a3b262e5dce3,turnloose.rehab,available,14.99,,low,low,10,name.com,,,
 0e953f65-77b9-472d-861e-08826854f1b3,pricelist.rehab,available,14.99,,medium,low,10,name.com,,,
 f0eaf003-0c96-4f8e-aa71-e83c4290fb61,noreally.rehab,available,14.99,,high,low,9,name.com,,,
@@ -289,13 +287,13 @@ d41a6b1b-4b88-4c77-8351-ce8db20cf6d3,providence.rehab,premium,1107,1107,high,low
 b4a532ff-d5b5-41d7-80d8-42ff021c7881,eternal.rehab,available,14.99,52.99,high,medium,7,name.com,,,
 c3789c99-7c63-47f3-aee3-07b049a18d33,skirt.rehab,available,14.99,,high,low,5,name.com,,,
 1db66082-b18a-4481-ad5a-565c0d7b6a3d,cxx.rehab,available,14.99,52.99,low,low,3,name.com,,,
-5db08897-a234-46c5-b93c-6e05276ddf30,Iaskyou.rehab,available,14.99,,medium,low,9,name.com,,,
+5db08897-a234-46c5-b93c-6e05276ddf30,iaskyou.rehab,available,14.99,,medium,low,9,name.com,,,
 ca68d80d-bdb0-418a-9a02-5086f590efcf,backside.rehab,available,14.99,52.99,low,low,8,name.com,,,09/08/2026 10:44
 fbb2aec9-12b2-4c1c-8790-90f2bb685ef2,madison.rehab,premium,242,242,medium,low,7,namesilo,,,08/09/2026 13:09
 6c28a585-16bc-4923-946a-5ca0178648af,terror.rehab,available,14.99,,medium,low,6,name.com,,,
 6780075b-ebb1-40ed-b8fd-93be4d5cb0bf,manifest.rehab,available,14.99,52.99,medium,medium,8,name.com,,,06/08/2026 05:17
 4e237e8e-d3e0-45b1-bef4-10aaea2be8fc,whopping.rehab,available,14.99,52.99,low,low,8,name.com,,,08/08/2026 13:14
-a269fe7f-4aa3-4357-a2b5-90ebde9fde97,transportation.rehab,available,36.99,36.99,medium,low,14,namesilo,,,13/09/2026 03:39
+a269fe7f-4aa3-4357-a2b5-90ebde9fde97,transportation.rehab,available,36.99,36.99,low,low,14,namesilo,,,19/09/2026 03:16
 184ecbc4-4fae-4635-99c2-0029fa691d77,taste.rehab,available,14.99,,high,low,5,name.com,,,
 984488b0-5f4c-42f9-bbf5-95942c797f7b,warmachine.rehab,available,14.99,,medium,low,11,name.com,,,
 d88c5f75-125f-49a0-b73b-f9aa7603f5ed,xciv.rehab,available,14.99,52.99,low,low,4,name.com,,,
@@ -320,7 +318,7 @@ ea7da130-7ea5-4cbe-9367-5d9b786a0e40,dismissal.rehab,available,14.99,,medium,low
 bd6f4a0b-d8ef-4496-8066-bb7876e0f64b,realised.rehab,available,14.99,52.99,high,low,8,name.com,,,
 0d64c36f-9199-4c40-8f36-03daaaa118f4,visualized.rehab,available,14.99,,high,low,10,name.com,,,
 0ecc73e7-5d0d-43fd-a6cf-bd7b2e9ea1a4,spiceup.rehab,available,14.99,,high,low,8,name.com,,,
-91589f7d-9342-4b10-8e72-6413f683f724,DalaiLama.rehab,available,14.99,,high,low,10,name.com,,,
+91589f7d-9342-4b10-8e72-6413f683f724,dalailama.rehab,available,14.99,,high,low,10,name.com,,,
 17e09067-7f6a-4b4e-9149-cab07a6bda37,understandable.rehab,available,14.99,,high,low,14,name.com,,,
 052e8c06-c66d-43e6-87d1-e8657438985a,adaxial.rehab,available,14.99,52.99,low,low,7,name.com,,,
 01cd669e-79fc-4dfd-bf7b-48013dc0ade6,deadline.rehab,available,14.99,,high,low,8,name.com,,,
@@ -332,7 +330,7 @@ e4ac04ae-4da1-4dbe-8955-c62d385e359c,sensation.rehab,available,14.99,52.99,high,
 67c5cde9-6b9f-4944-85dd-e723e4588b8c,called.rehab,available,14.99,,medium,low,6,name.com,,,
 d7cf26be-f547-4229-8717-81e1bd69e484,unplug.rehab,available,14.99,,high,low,6,name.com,,,
 502ef2e1-d926-4f18-ad62-23db4cc50c58,obsessive.rehab,available,14.99,,high,low,9,name.com,,,
-d179095e-a896-4e4d-ba9e-6212f9edd777,LettersandScience.rehab,available,14.99,,high,low,19,name.com,,,
+d179095e-a896-4e4d-ba9e-6212f9edd777,lettersandscience.rehab,available,14.99,,high,low,19,name.com,,,
 923266a1-3b69-4238-b490-a0575073a655,adscript.rehab,available,14.99,52.99,low,low,8,name.com,,,
 c735e0d0-6e3e-43d3-a53f-0cd5125dd7c9,amnesiac.rehab,available,14.99,52.99,low,low,8,name.com,,,
 7b02c584-1129-4509-9320-7f0b49dbc209,tape.rehab,available,14.99,,high,low,4,name.com,,,
@@ -348,7 +346,7 @@ bc88376a-470a-4a12-b510-6919535b3134,allogeneic.rehab,available,14.99,52.99,low,
 d42acd47-bcc4-4a3b-a14b-b4984cbe2e80,yoursever.rehab,available,14.99,,low,low,10,name.com,,,
 b8c9829a-2eb7-4b17-917b-99ef59b74487,shine.rehab,available,14.99,,high,low,5,name.com,,,
 a30ff2ff-2cf6-4977-9341-d91d69251174,uncomfortably.rehab,available,14.99,,medium,low,13,name.com,,,
-177ddf09-cbe2-4f2f-b343-3b8084bb496c,Frenchvanilla.rehab,available,14.99,,medium,low,14,name.com,,,
+177ddf09-cbe2-4f2f-b343-3b8084bb496c,frenchvanilla.rehab,available,14.99,,medium,low,14,name.com,,,
 5839a65b-cb3b-4980-944e-a57160d13203,legalheir.rehab,available,14.99,,medium,low,10,name.com,,,
 e94e57e4-0991-423b-8630-506e52fe33da,selfworth.rehab,available,14.99,,high,low,10,name.com,,,
 3910b829-b91a-4fdc-adf5-3584c566f8ad,moveabout.rehab,available,14.99,,low,low,10,name.com,,,
@@ -374,7 +372,7 @@ fda90168-3271-4dc1-8078-0972622c2d18,successful.rehab,premium,118.8,118.8,high,l
 8bea907a-aab7-4c8b-a79f-39c15e115797,athletic.rehab,premium,1250,1250,high,low,8,name.com,,,
 45b61ff7-e2cc-486d-bdb3-764279dbd1ea,sum.rehab,available,14.99,52.99,medium,low,3,name.com,,,
 7830bf2f-adf5-4b12-9db8-0573d4edea17,teaplant.rehab,available,14.99,,high,low,9,name.com,,,
-fc4e0afd-501b-4a1f-ae22-aa142a564961,production.rehab,available,36.99,36.99,medium,low,10,namesilo,,,15/09/2026 04:24
+fc4e0afd-501b-4a1f-ae22-aa142a564961,production.rehab,available,38.48,47.48,medium,low,10,namecheap,,,19/09/2026 18:56
 9163b919-0293-4c8a-8c88-34dc4d45d193,bemother.rehab,available,14.99,,medium,low,9,name.com,,,
 4069dde9-6661-4259-9538-760a8340825c,fourth.rehab,available,14.99,52.99,low,low,6,name.com,,,
 5ca19d81-7f3f-40aa-b98f-76e3be31df19,rushed.rehab,available,14.99,,medium,low,6,name.com,,,
@@ -383,7 +381,7 @@ bdbfcf9e-a7ae-4b3b-9c72-412de1751094,purpose.rehab,available,14.99,,high,low,7,n
 1c7ddda3-7be5-4a26-9202-79a4a2913b26,cockpit.rehab,available,14.99,,high,low,7,name.com,,,
 a9840860-6aea-40cd-8af6-7bc630a9fc07,archaic.rehab,available,14.99,52.99,low,low,7,name.com,,,
 576e1516-8360-485a-af0c-9b5a18ed8de2,how.rehab,available,14.99,,high,low,3,name.com,,,
-3a1ccc01-6018-41ee-9ae1-26d17569e012,management.rehab,premium,242,242,medium,low,10,namesilo,,,08/09/2026 04:55
+3a1ccc01-6018-41ee-9ae1-26d17569e012,management.rehab,premium,250,250,medium,low,10,name.com,,,19/09/2026 14:24
 7c0bc967-0efc-47a7-9914-d559db1ced82,detected.rehab,available,14.99,52.99,medium,low,8,name.com,,,
 6b7700c7-ea1f-4b55-ba03-038462ef2a5b,alkalizer.rehab,available,14.99,52.99,low,low,9,name.com,,,
 6722a0ba-abb6-4b3a-9b64-2ec177231c40,pressofficer.rehab,available,14.99,,high,low,13,name.com,,,
@@ -393,10 +391,10 @@ af8f3990-8b16-4d41-82af-0121d07a1158,rollabout.rehab,available,14.99,,low,low,10
 bdc0afca-c257-4dc3-818d-f8ea46ce1a27,sunset.rehab,available,14.99,,high,low,6,name.com,,,
 89f39603-2bc4-4307-81d1-f9f0db089723,begotten.rehab,available,14.99,52.99,low,low,8,name.com,,,09/08/2026 09:11
 e2348f3a-1076-497f-a50b-e51fad0a3256,sweetwhiskey.rehab,available,14.99,,low,low,13,name.com,,,
-d315dee1-7852-470c-bfd5-f2b179ab3e4b,Rhianna.rehab,available,14.99,,high,low,7,name.com,,,
+d315dee1-7852-470c-bfd5-f2b179ab3e4b,rhianna.rehab,available,14.99,,high,low,7,name.com,,,
 82de2da3-ecad-40fa-9623-989e9ce282e3,managing.rehab,available,14.99,,high,low,8,name.com,,,
 75329f22-0e04-4dab-8abe-333e414402ab,capitalism.rehab,available,14.99,,medium,low,10,name.com,,,
-5dce36bd-eba8-4280-adca-73adbf7f1edf,capital.rehab,premium,118.8,118.8,medium,medium,7,namesilo,,,14/09/2026 02:44
+5dce36bd-eba8-4280-adca-73adbf7f1edf,capital.rehab,premium,128.7,128.7,medium,low,7,namecheap,,,19/09/2026 09:29
 bd9a6143-896f-4876-b6e6-9a4499f2abaf,takingaway.rehab,available,14.99,,low,low,11,name.com,,,
 c03c15a1-a14f-430b-b950-cb5156513a65,motherfukka.rehab,available,14.99,,medium,low,11,name.com,,,
 0fdb9cb3-3de2-49f9-9f35-00dc36da7db9,beatified.rehab,available,14.99,52.99,low,low,9,name.com,,,09/08/2026 05:53
@@ -419,7 +417,7 @@ f1b45d23-85c9-45ee-9790-18de9a3ee88b,intheabstract.rehab,available,14.99,,medium
 7eb3a1e1-2b49-4ce7-896e-9ff935fe8cde,evrything.rehab,available,14.99,,medium,low,9,name.com,,,
 6b37f3aa-172c-4caf-ba18-d73110f25b5d,long.rehab,available,14.99,,high,low,4,name.com,,,
 0b2401b1-10a7-4cd8-aba4-5f1dad204cae,bringto.rehab,available,14.99,,high,low,8,name.com,,,
-d3f8b08c-0839-42e0-90ec-220fcdcfe3b5,Carribean.rehab,available,14.99,,high,low,9,name.com,,,
+d3f8b08c-0839-42e0-90ec-220fcdcfe3b5,carribean.rehab,available,14.99,,high,low,9,name.com,,,
 dbbc1404-11ad-43a5-941e-7dcb69b1dc12,punishing.rehab,available,14.99,52.99,low,low,9,name.com,,,06/08/2026 17:10
 4b3f1014-090d-449c-8a37-eae20d957530,scientifically.rehab,available,14.99,,medium,low,14,name.com,,,
 061f8dc2-e3de-453e-8b73-581c81396a26,zestful.rehab,available,14.99,52.99,low,low,7,name.com,,,08/08/2026 19:51
@@ -432,7 +430,7 @@ a9da32c5-564b-4619-81ec-a0717ada2146,extremely.rehab,available,14.99,,medium,low
 86026c34-a73e-4c26-922f-90cb4a6c8768,ametropic.rehab,available,14.99,52.99,low,low,9,name.com,,,
 12c30e0b-839e-4ca5-859b-db3e4e54c4a7,department.rehab,available,14.99,,high,low,10,name.com,,,
 6ee06b1f-d7d9-4cf1-8308-579219ede51f,police.rehab,available,14.99,,high,low,6,name.com,,,
-4ec37825-48ca-464b-a64b-bfd9ed1944f2,WhiteCloud.rehab,available,14.99,,low,low,11,name.com,,,
+4ec37825-48ca-464b-a64b-bfd9ed1944f2,whitecloud.rehab,available,14.99,,low,low,11,name.com,,,
 7a2f576f-6c98-4a0b-a6e9-a5a771204a26,arco.rehab,available,14.99,52.99,low,low,4,name.com,,,06/08/2026 16:02
 ff91f597-d71f-4b3b-b242-aa0a03351cb1,fake.rehab,available,14.99,52.99,low,low,4,name.com,,,08/08/2026 23:02
 ccbc1ec2-cd0c-4018-a43f-7262ce80bd52,strange.rehab,available,14.99,,medium,low,7,name.com,,,
@@ -441,7 +439,7 @@ dd8d57d7-ef6b-47cf-8e71-11d87114b1df,onehalf.rehab,available,14.99,,medium,low,8
 2be51b6e-7ed6-4d7a-a52b-9f771421081d,olive.rehab,available,14.99,,medium,low,5,name.com,,,
 43817948-58da-4db2-b50c-4bff70754ead,journalism.rehab,available,14.99,,high,low,10,name.com,,,
 7e34cb68-9894-4fcf-a641-731cca9aacc3,arthritic.rehab,available,14.99,52.99,low,low,9,name.com,,,06/08/2026 22:54
-c280fb46-c4ef-4ab6-92d3-4da1d7292462,Ilikethat.rehab,available,14.99,,medium,low,11,name.com,,,
+c280fb46-c4ef-4ab6-92d3-4da1d7292462,ilikethat.rehab,available,14.99,,medium,low,11,name.com,,,
 d876bc62-000f-4bff-bc0e-52e96b5bfca2,presently.rehab,available,14.99,,medium,low,9,name.com,,,
 b44d89a7-04f5-4839-8a07-5926b94157e2,step.rehab,available,14.99,,high,low,4,name.com,,,
 f236078d-6680-4f1e-a225-a027985ff52d,jasmine.rehab,available,36.99,36.99,medium,low,7,namesilo,,,08/09/2026 14:04
@@ -527,7 +525,7 @@ aeff85a8-b177-44bd-873a-5cb6454cc867,luggage.rehab,available,14.99,,high,low,7,n
 9cc6dc65-1d76-4952-9758-c1fd0bfbb7cc,archetypal.rehab,available,14.99,52.99,low,low,10,name.com,,,06/08/2026 15:32
 49bb1f80-a559-4626-90fc-f4910abf57c5,galling.rehab,available,,,high,low,7,,,,
 49a6145e-4805-484c-8dc7-cccf4d2ca96c,beatific.rehab,available,14.99,52.99,low,low,8,name.com,,,
-129de33a-66a6-43a9-a2d7-bae64518ea77,good.rehab,premium,118.8,118.8,medium,medium,4,namesilo,,,15/09/2026 00:44
+129de33a-66a6-43a9-a2d7-bae64518ea77,good.rehab,premium,128.7,128.7,medium,low,4,namecheap,,,19/09/2026 05:54
 ee50b7af-1b80-4379-9175-bc71da28cd7d,smiling.rehab,available,14.99,,high,low,7,name.com,,,
 f5b047da-14f7-48f8-a7bd-bfed7403c8f7,yur.rehab,available,14.99,,high,low,3,name.com,,,
 05d704c2-d156-4ad6-9056-8bcf0b3235fc,solve.rehab,available,14.99,,high,low,5,name.com,,,
@@ -554,18 +552,17 @@ a013f877-e736-4495-9512-5b2d4575cce5,makepeace.rehab,available,14.99,,high,low,1
 5c7f1d4e-9fe3-4d2a-81de-7222de085f5b,penis.rehab,premium,242,242,medium,low,5,namesilo,,,
 7e7d5830-b108-4c38-9ce7-021df2519d6f,perfervid.rehab,available,14.99,52.99,low,low,9,name.com,,,06/08/2026 16:29
 16cf58b4-e18d-4e4e-9dd8-77fa8a6575cd,putoutof.rehab,available,14.99,,low,low,10,name.com,,,
-e42be437-cceb-4e12-9189-378a452c7a10,Americaneagle.rehab,available,,,high,low,14,,,,
 6df2bd1a-36b3-4fa2-a1b4-222ca52f8b1d,amebous.rehab,available,14.99,52.99,low,low,7,name.com,,,
 b783d8a6-0670-405d-a44b-98fabf67d36e,ambagious.rehab,available,14.99,52.99,low,low,9,name.com,,,
 543dd4d7-dc05-4182-9b7a-3ba5a2e50f8a,bedlinen.rehab,available,14.99,,high,low,9,name.com,,,
 d21b42a6-8f01-4e79-936c-3086d876f799,russian.rehab,premium,123.75,,high,low,7,name.com,,,
-6930a199-7c72-4891-8570-ff0adfb71273,WestCountry.rehab,available,14.99,,low,low,12,name.com,,,
+6930a199-7c72-4891-8570-ff0adfb71273,westcountry.rehab,available,14.99,,low,low,12,name.com,,,
 c319eb45-5889-47e2-9965-9fc3ceb94306,lava.rehab,available,14.99,,medium,low,4,name.com,,,
 dade1653-9702-4aad-8438-dd40c83ad9f8,asofnow.rehab,available,14.99,,medium,low,9,name.com,,,
 20cb926d-d1c3-4bb8-a7c9-c7cbf430ae68,acerb.rehab,available,14.99,52.99,low,low,5,name.com,,,
 e2dfa564-f4b8-475c-a194-d33cdd429f27,clothingbin.rehab,available,14.99,,medium,low,12,name.com,,,
 713b73ef-162e-46c8-bced-d5f1ece30b30,volleyball.rehab,available,14.99,,high,low,10,name.com,,,
-bb2ea851-88f7-44fd-9190-d13018114f40,Mario.rehab,available,14.99,,high,low,5,name.com,,,
+bb2ea851-88f7-44fd-9190-d13018114f40,mario.rehab,available,14.99,,high,low,5,name.com,,,
 673112a5-8557-4a1e-a402-f61de4d11bd7,visualize.rehab,available,14.99,,high,low,9,name.com,,,
 f1e433ee-0b6b-4029-ab52-cdb43e05003c,him.rehab,available,14.99,,high,low,3,name.com,,,
 407ae82a-8a03-4987-933b-3fee6fc373a6,cattax.rehab,available,14.99,,medium,low,7,name.com,,,
@@ -575,7 +572,7 @@ f1e433ee-0b6b-4029-ab52-cdb43e05003c,him.rehab,available,14.99,,high,low,3,name.
 236a2c14-1271-4a35-8016-406e4de16ad6,handicap.rehab,available,14.99,,high,low,8,name.com,,,
 11ef0e00-bd36-4d75-a5db-4ef079afdb25,beat.rehab,premium,118.8,118.8,high,low,4,namesilo,,,
 4efcd861-1fb7-490f-b112-df4719c4c5d5,acervate.rehab,available,14.99,52.99,low,low,8,name.com,,,
-9cc7302a-8847-435f-ade6-0711f8de9dd1,party.rehab,available,36.99,36.99,medium,low,5,namesilo,,,14/09/2026 05:45
+9cc7302a-8847-435f-ade6-0711f8de9dd1,party.rehab,available,36.99,36.99,medium,low,5,namesilo,,,19/09/2026 09:39
 3f2753c2-0356-4b65-8c82-5cfec0dfab2f,joined.rehab,available,14.99,,high,low,6,name.com,,,
 896f08a4-eb84-4991-ae8a-0aa18e9cd8ab,actinal.rehab,available,14.99,52.99,low,low,7,name.com,,,
 57f8f9cd-4143-4612-aaa6-72502a676e33,tickledpink.rehab,available,14.99,,medium,low,12,name.com,,,
@@ -619,13 +616,13 @@ c339badf-4e1f-4484-8217-6cd74ef84d3c,toxic.rehab,available,14.99,,medium,low,5,n
 4530a32d-5729-4867-8ff6-a038433f1a9c,riverotter.rehab,available,14.99,,high,low,11,name.com,,,
 94423403-23b4-4cb6-868f-832bc8a92c70,visualise.rehab,available,14.99,,high,low,9,name.com,,,
 c920c255-e755-4b4e-b034-96560624e767,sixty.rehab,available,14.99,52.99,low,low,5,name.com,,,
-bf3966f6-f0d1-411d-a50f-243465a59ec2,TexasCity.rehab,available,14.99,,low,low,10,name.com,,,
+bf3966f6-f0d1-411d-a50f-243465a59ec2,texascity.rehab,available,14.99,,low,low,10,name.com,,,
 53867b87-9cf0-493b-9560-2a60c1c5a23a,vaccination.rehab,available,14.99,,medium,low,11,name.com,,,
 8beba2da-c7cc-44d0-a2f1-f49ad15aa410,sob.rehab,available,14.99,52.99,low,low,3,name.com,,,08/08/2026 23:48
 20bf3e70-6574-4b72-9a41-05051b4ffaff,final.rehab,available,14.99,52.99,high,low,5,name.com,,,
 5a07b557-a0d3-4db1-a909-455cdfa6e69a,aboard.rehab,available,14.99,,medium,low,6,name.com,,,
 2075283c-9b8e-4884-8ff2-a43524ea61d4,draggled.rehab,available,14.99,52.99,low,low,8,name.com,,,09/08/2026 07:33
-fbc85356-20e3-4fdf-8fef-d5bb6c721250,eater.rehab,available,36.99,36.99,low,low,5,namesilo,,,14/09/2026 05:56
+fbc85356-20e3-4fdf-8fef-d5bb6c721250,eater.rehab,available,36.99,36.99,low,low,5,namesilo,,,19/09/2026 09:42
 be91bfe8-dfb9-4786-93c3-b3f5887d5ec2,ship.rehab,available,14.99,,high,low,4,name.com,,,
 a9b97290-786e-489c-8163-7dbff7695a99,diplomat.rehab,available,14.99,,high,low,8,name.com,,,
 26944eca-bd07-43f4-b036-ef2798b524e2,burry.rehab,available,14.99,52.99,low,low,5,name.com,,,08/08/2026 17:29
@@ -636,17 +633,17 @@ a9b97290-786e-489c-8163-7dbff7695a99,diplomat.rehab,available,14.99,,high,low,8,
 0fd99009-df1b-49d7-ae07-da81d245e990,display.rehab,available,36.99,36.99,medium,low,7,namesilo,,,08/09/2026 08:33
 409e0f1c-94c7-40db-90cc-2ff2cff61612,shopping.rehab,premium,1107,1107,medium,low,8,namesilo,,,
 930213b2-051c-4c23-8689-2d149bc165eb,screwabout.rehab,available,14.99,,low,low,11,name.com,,,
-a2e51575-1809-45eb-8f7a-8880c3d9fbe7,connected.rehab,available,36.99,36.99,medium,medium,9,namesilo,,,13/09/2026 03:43
+a2e51575-1809-45eb-8f7a-8880c3d9fbe7,connected.rehab,available,38.48,47.48,low,low,9,namecheap,,,19/09/2026 11:24
 3d03fb8c-5a13-4d86-8a6d-7073d5e9c554,drive.rehab,available,14.99,52.99,high,low,5,name.com,,,
 f274f365-bd03-4a94-93e3-51dc40a7be09,nifty.rehab,available,14.99,52.99,medium,low,5,name.com,,,08/08/2026 12:38
 53ed742e-8a8f-4071-bb14-65f58f8de1cb,stating.rehab,available,14.99,,high,low,7,name.com,,,
 a211dc0d-5137-45a3-83b3-4a83f9b9820d,strained.rehab,available,14.99,52.99,medium,low,8,name.com,,,
 e2e11736-23aa-4510-bd1c-a1a5bae6436f,leaving.rehab,available,14.99,,high,low,7,name.com,,,
 8851413e-d688-4bf3-98ec-737a3031abe5,written.rehab,available,14.99,,high,low,7,name.com,,,
-7807b701-7a6f-4c93-b283-88ecfeb13470,StPauls.rehab,available,14.99,,medium,low,8,name.com,,,
+7807b701-7a6f-4c93-b283-88ecfeb13470,stpauls.rehab,available,14.99,,medium,low,8,name.com,,,
 c502db73-00e8-42cd-a746-9ac1dac415c0,basophilic.rehab,available,14.99,52.99,low,low,10,name.com,,,08/08/2026 22:53
 d7523fe8-a1a2-4e3a-b682-3fcc0fb59f10,metal.rehab,available,14.99,,high,low,5,name.com,,,
-c37ece71-2902-4340-b355-7d4319a87cc8,Iloveyou.rehab,available,14.99,,medium,low,10,name.com,,,
+c37ece71-2902-4340-b355-7d4319a87cc8,iloveyou.rehab,available,14.99,,medium,low,10,name.com,,,
 076d7f33-e17d-4db3-adf5-8147fb8e5b50,streetart.rehab,available,14.99,,medium,low,10,name.com,,,
 a2338344-4a57-4958-9e56-5d6cc8eb878a,lord.rehab,available,14.99,52.99,high,low,4,name.com,,,
 a5b8ab8f-ef1d-4ea9-9720-d161f3a774f1,allocate.rehab,available,14.99,,high,low,8,name.com,,,
@@ -662,7 +659,7 @@ e42edca3-eb0e-4e2f-beb3-0bdfae1a1d2a,nomanisanisland.rehab,available,14.99,,medi
 cd362b43-723c-4321-af44-7bd022791a70,customize.rehab,available,14.99,,high,low,9,name.com,,,
 5ae572ee-f1ad-4dfa-a114-5496164b37f1,arthurian.rehab,available,14.99,52.99,low,low,9,name.com,,,06/08/2026 23:21
 2c5a8a75-37b7-4f03-8e09-9d28ad063e41,neighborhood.rehab,available,14.99,,medium,low,12,name.com,,,
-e7a06d12-18a0-4bdb-8acc-68bb3921c1e1,TahoeCity.rehab,available,36.99,36.99,low,low,10,namesilo,,,08/09/2026 04:34
+e7a06d12-18a0-4bdb-8acc-68bb3921c1e1,tahoecity.rehab,available,36.99,36.99,low,low,10,namesilo,,,08/09/2026 04:34
 de08da9c-5db2-4ce3-a9dc-6709a5b61c97,jolt.rehab,available,14.99,,high,low,4,name.com,,,
 146dd8af-b45a-4ea3-af63-093fe4d64b4c,nuthin.rehab,available,14.99,,medium,low,6,name.com,,,
 32b34b79-24ef-44ac-98ad-3597d7f8e718,careless.rehab,available,14.99,,medium,low,8,name.com,,,
@@ -712,34 +709,34 @@ df80429e-48e3-4a42-b888-0436a3b51064,baleful.rehab,available,14.99,52.99,low,low
 807a7120-a7f6-435c-9dfd-090f063cb297,jump.rehab,available,14.99,52.99,high,low,4,name.com,,,
 7bbeaadc-5c38-4995-b7b2-24d75a6c7c59,quaternion.rehab,available,14.99,52.99,low,low,10,name.com,,,
 9bc53bd9-f9d9-4738-b38e-da7fe778b837,luminous.rehab,available,14.99,52.99,medium,low,8,name.com,,,
-7f49a203-0b31-45d2-963f-f48b54b6972d,howwouldIknow.rehab,available,14.99,,medium,low,16,name.com,,,
+7f49a203-0b31-45d2-963f-f48b54b6972d,howwouldiknow.rehab,available,14.99,,medium,low,16,name.com,,,
 6513704b-90bd-4e8b-aa42-f2b03719cb4a,discspace.rehab,available,14.99,,high,low,10,name.com,,,
 19445eb3-c50c-4e96-af4f-d37494270903,dismiss.rehab,available,14.99,,high,low,7,name.com,,,
 7c8e0ea6-5f46-4d4c-9519-cb307ce3701e,macro.rehab,available,14.99,,high,low,5,name.com,,,
 143db2da-438a-4f7d-92d1-db29f384ebac,flush.rehab,available,14.99,52.99,medium,low,5,name.com,,,
-01f19613-eb94-43fc-bd71-338c2e576ed6,Christalive.rehab,available,14.99,,high,low,12,name.com,,,
+01f19613-eb94-43fc-bd71-338c2e576ed6,christalive.rehab,available,14.99,,high,low,12,name.com,,,
 b55069c9-29b8-46c4-b895-ecae5a3b4911,mockturtleneck.rehab,available,14.99,,high,low,15,name.com,,,
 99dfe035-6ece-43dc-badc-e939c71b1b18,progression.rehab,available,14.99,,medium,low,11,name.com,,,
 5118a72e-793e-46a1-b109-d6f0c5d3b625,cordial.rehab,available,14.99,52.99,high,low,7,name.com,,,
-de00af05-e934-41ab-89b3-d1aaa3a5b195,Xmastree.rehab,available,14.99,,high,low,9,name.com,,,
+de00af05-e934-41ab-89b3-d1aaa3a5b195,xmastree.rehab,available,14.99,,high,low,9,name.com,,,
 ff3a46b9-1b04-485d-89a9-c1c77900786d,autoimmune.rehab,available,14.99,52.99,low,low,10,name.com,,,07/08/2026 20:32
 45c50964-5ace-4c93-8190-faf4546c7fc5,olympics.rehab,available,14.99,,medium,low,8,name.com,,,
 ce5b5914-b0bf-40a9-870f-b0a264ba251e,goods.rehab,available,14.99,,medium,low,5,name.com,,,
 43b41799-0f52-4f66-83ca-4a908c1ab44c,expecting.rehab,available,14.99,,high,low,9,name.com,,,
 f277fe24-564f-4b2a-b441-5684b7533206,provide.rehab,available,14.99,,high,low,7,name.com,,,
 b9ddcc65-9ab4-4213-90c9-c977a0be8293,godawful.rehab,available,14.99,52.99,low,low,9,name.com,,,09/08/2026 05:04
-cc431195-08fc-4703-b814-ff668c6a6bd8,USdollar.rehab,available,14.99,,high,low,9,name.com,,,
+cc431195-08fc-4703-b814-ff668c6a6bd8,usdollar.rehab,available,14.99,,high,low,9,name.com,,,
 8bacf4e4-2427-4abf-89ca-b084a78ed48a,arboreous.rehab,available,14.99,52.99,low,low,9,name.com,,,06/08/2026 12:59
 cd947071-c689-48af-a95d-99d63a232c7e,dateofdeath.rehab,available,14.99,,medium,low,13,name.com,,,
 020b8739-24d4-4ab9-8cbb-89695e8346a3,synchronise.rehab,available,14.99,,high,low,11,name.com,,,
-b661a52e-7edc-4ad2-b91b-b0e4dc87fccb,computing.rehab,available,14.99,52.99,medium,low,9,name.com,,,15/09/2026 02:43
+b661a52e-7edc-4ad2-b91b-b0e4dc87fccb,computing.rehab,available,38.48,47.48,medium,low,9,namecheap,,,19/09/2026 12:12
 a6d7bbc6-92ad-432d-a23f-2873312ef99f,executing.rehab,available,14.99,,medium,low,9,name.com,,,
 319ed180-989f-4208-a2b9-5e0d54da95c9,endorse.rehab,available,36.99,36.99,medium,low,7,namesilo,,,08/09/2026 09:45
-4dfd6263-db5f-44dd-a639-f4df224ad526,fund.rehab,premium,242,242,high,low,4,namesilo,,,
+4dfd6263-db5f-44dd-a639-f4df224ad526,fund.rehab,premium,242,242,medium,low,4,namesilo,,,19/09/2026 13:44
 60454fea-d071-4f43-9ffc-bbe1ae812e62,prompting.rehab,available,14.99,,medium,low,9,name.com,,,
 5580872f-9591-432b-9805-7efc3329b404,assignable.rehab,available,14.99,52.99,low,low,10,name.com,,,07/08/2026 06:19
 6369a3c4-0ce6-45d6-aba0-f1d21b597b40,wanted.rehab,available,14.99,,high,low,6,name.com,,,
-78b252e8-9c4d-40fb-bb01-08755c6db481,domestic.rehab,available,14.99,52.99,high,low,8,name.com,,,
+78b252e8-9c4d-40fb-bb01-08755c6db481,domestic.rehab,available,38.48,47.48,medium,low,8,namecheap,,,19/09/2026 12:54
 8896d413-7481-4f5f-bfa3-be0cfcab8b37,anachronic.rehab,available,14.99,52.99,low,low,10,name.com,,,
 21a0ba02-8a01-4474-b8e8-4534d6869b6d,light.rehab,available,14.99,52.99,medium,low,5,name.com,,,
 1b7dbfee-0833-4eca-8237-5429b8a604ac,offspring.rehab,available,14.99,,high,low,9,name.com,,,
@@ -782,7 +779,7 @@ ea3e8b14-89c5-4658-8a11-2a4e2550cd7b,gotobat.rehab,available,14.99,,medium,low,9
 e758f7b8-1e3a-4ceb-b4ae-cc51ca14b705,violated.rehab,available,14.99,,medium,low,8,name.com,,,
 ee82659a-0684-4729-ab92-4b32574c2e92,scientist.rehab,available,14.99,,high,low,9,name.com,,,
 e0b33487-ce87-4f73-959d-3f2555930378,comeby.rehab,available,14.99,,high,low,7,name.com,,,
-5abc85f4-211c-4086-bc6f-bd37278ad89a,Phil.rehab,available,14.99,,high,medium,4,name.com,,,
+5abc85f4-211c-4086-bc6f-bd37278ad89a,phil.rehab,available,14.99,,high,medium,4,name.com,,,
 b797c1c3-6850-4548-98c6-6a0fe7c3899c,hommalirice.rehab,available,14.99,,high,low,13,name.com,,,
 b61a2079-eae3-4d63-87d2-e0795100b719,lookto.rehab,available,14.99,,high,low,7,name.com,,,
 74cdcfeb-a1b4-406f-ba63-682049c96598,diskspace.rehab,available,14.99,,high,low,10,name.com,,,
@@ -805,7 +802,7 @@ eb9a63e5-0bf1-4d27-9198-dd66e0a0131f,ugh.rehab,available,14.99,,medium,low,3,nam
 f771f860-4bbf-4e87-abce-3ef0bb6327cb,abducens.rehab,available,14.99,52.99,low,low,8,name.com,,,
 ac334451-bb6f-4e62-a4bb-63268918cc41,involving.rehab,available,14.99,,medium,low,9,name.com,,,
 7598c6f9-6eb5-4694-ac6d-9a5d9e02208d,cruel.rehab,available,14.99,,high,low,5,name.com,,,
-bd75199c-d852-4ce5-acd8-aecf8c3ec990,NewEngland.rehab,premium,250,,medium,low,11,name.com,,,
+bd75199c-d852-4ce5-acd8-aecf8c3ec990,newengland.rehab,premium,250,,medium,low,11,name.com,,,
 49de13bd-4ce8-47fd-a7e2-a87a6cfe0c93,aromatic.rehab,available,14.99,,high,low,8,name.com,,,
 124debba-1501-45f4-bd22-04796d593029,inbrief.rehab,available,14.99,,medium,low,8,name.com,,,
 a53f1df1-b650-4902-8c22-476166282c49,asyoulike.rehab,available,14.99,,high,low,11,name.com,,,
@@ -832,7 +829,7 @@ e7e958d5-65ce-4e30-bd1a-fdecd1f44a89,fruitjuice.rehab,available,14.99,,high,low,
 912efe38-a233-4cce-96c0-3b85f879dc31,speedoflight.rehab,available,14.99,,low,low,14,name.com,,,
 96d9405d-b02e-4c14-a88c-0feb8219f135,mexican.rehab,premium,118.8,118.8,high,low,7,namesilo,,,
 594880f4-4410-4c50-a42a-9c9e003f1bca,dirt.rehab,available,14.99,52.99,medium,low,4,name.com,,,
-5b74f4e6-5323-4636-ba23-e6700ee4d4b1,Hans.rehab,available,14.99,,high,low,4,name.com,,,
+5b74f4e6-5323-4636-ba23-e6700ee4d4b1,hans.rehab,available,14.99,,high,low,4,name.com,,,
 e8af9f73-3715-41a3-8da6-04179beb4925,briefcase.rehab,available,14.99,,high,low,9,name.com,,,
 2331255a-acf2-4308-9e63-cd1f9f26ea24,walkietalkie.rehab,available,14.99,,high,low,13,name.com,,,
 7a1e8259-7e11-421c-bd59-621c7155b18a,laborer.rehab,available,14.99,,medium,low,7,name.com,,,
@@ -847,17 +844,17 @@ bee611d2-e73b-40e3-b26f-c33bf227fef1,maid.rehab,available,14.99,,high,low,4,name
 9d2ae7d8-6133-453e-9158-12ccb1f1e8c9,whether.rehab,available,14.99,,high,low,7,name.com,,,
 9d457845-b562-474f-8a1d-f4b086c3f4c9,scurvy.rehab,available,14.99,52.99,low,low,6,name.com,,,
 bc051a7b-5cc2-4d0e-b544-7333f4ee88c9,impractical.rehab,available,14.99,,medium,low,11,name.com,,,
-344d9282-89e1-4974-b758-0efa70a7cb11,Googler.rehab,available,14.99,,high,low,7,name.com,,,
+344d9282-89e1-4974-b758-0efa70a7cb11,googler.rehab,available,14.99,,high,low,7,name.com,,,
 5d1d6fda-58a0-4ccd-b52c-5e4a5130a3e3,whatnow.rehab,available,14.99,,low,low,8,name.com,,,
 8a840d3a-4753-4551-bbf7-09e21862b79e,hanoi.rehab,premium,78.54,78.54,medium,low,5,namesilo,,,
 7c060c51-43b6-4502-9075-7bea8f661885,whocares.rehab,available,14.99,,low,low,9,name.com,,,
 633eb6f5-2795-4901-8fd8-789314125ca3,atlast.rehab,available,14.99,,high,low,7,name.com,,,
-8385c2b6-a9dc-42bd-bea9-00ef90dcced7,Kinder.rehab,available,,,high,low,6,,,,
+8385c2b6-a9dc-42bd-bea9-00ef90dcced7,kinder.rehab,available,,,high,low,6,,,,
 d9d026ae-5eb0-4716-9612-587c3f2fb906,tush.rehab,available,14.99,52.99,low,low,4,name.com,,,09/08/2026 11:45
 c83e46a9-7904-4ee7-ba60-2e41e7b9b03b,funfair.rehab,available,14.99,,high,low,7,name.com,,,
 e52a7ac8-ef1d-4ca5-9b54-e7026d1d7c6c,liveblog.rehab,available,14.99,,high,low,9,name.com,,,
 1e89e2a6-5141-413c-9323-8a8f843f3711,eightieth.rehab,available,14.99,52.99,low,low,9,name.com,,,
-91ded946-7ef6-45fd-b358-50480068d709,grandparent.rehab,available,36.99,36.99,medium,low,11,namesilo,,,15/09/2026 07:07
+91ded946-7ef6-45fd-b358-50480068d709,grandparent.rehab,available,36.99,36.99,medium,low,11,namesilo,,,19/09/2026 04:27
 4b1ecd73-2f2a-49a3-b542-d3c3a63705e4,scene.rehab,available,14.99,,high,low,5,name.com,,,
 1be44e07-885e-49da-974b-9d011aa1e98f,astounded.rehab,available,14.99,,medium,low,9,name.com,,,
 818df78b-2245-41fb-bee4-322ca71bd93b,planless.rehab,available,14.99,52.99,low,low,8,name.com,,,
@@ -872,7 +869,7 @@ d0872ca5-d2f9-478a-8b60-dd0e40b62c85,inexpensive.rehab,premium,118.8,118.8,high,
 39b90cba-4af1-4916-8925-9e7ba2e14299,gobigorgohome.rehab,available,14.99,,high,low,17,name.com,,,
 c9d3507e-1e8d-43b2-b7de-29a3785a3e95,enjoy.rehab,available,,,high,low,5,,,,
 d80e32c6-c3ed-451e-bb9b-a3db23f48554,helping.rehab,available,14.99,,high,low,7,name.com,,,
-ad42e041-387e-49c2-af89-bce15e6c39d3,Spotify.rehab,available,,,high,low,7,,,,
+ad42e041-387e-49c2-af89-bce15e6c39d3,spotify.rehab,available,,,high,low,7,,,,
 6d661207-316a-48c3-9e26-12f0b3fa3ac2,android.rehab,available,,,high,medium,7,,,,
 13dbee16-51ec-4714-b85f-dac1c22f3a0a,golf.rehab,premium,82.5,,high,medium,4,name.com,,,
 9b565ddc-38c0-4791-b53b-d9f8473a122a,caring.rehab,premium,118.8,118.8,high,low,6,namesilo,,,
@@ -881,12 +878,12 @@ d9793dae-73d0-4304-bcae-fe41604a5353,agitated.rehab,available,14.99,52.99,low,lo
 8911f23f-c6b4-4a34-b1ec-67dfa94cb049,abrupt.rehab,available,14.99,52.99,low,low,6,name.com,,,
 e1ee7e96-dbba-4007-bbcb-c028c6c7609e,wrote.rehab,available,14.99,,low,low,5,name.com,,,
 bab041d9-68d2-4e51-8d62-df1b800dedb6,criminal.rehab,premium,1250,1250,high,low,8,name.com,,,
-660a726e-aaf5-454e-9ea0-fe17228332a7,nourishing.rehab,available,36.99,36.99,medium,low,10,namesilo,,,15/09/2026 02:55
+660a726e-aaf5-454e-9ea0-fe17228332a7,nourishing.rehab,available,38.48,47.48,medium,low,10,namecheap,,,19/09/2026 17:50
 4e8fa157-b1e1-4338-a63f-0599d0119644,pirate.rehab,available,14.99,,medium,low,6,name.com,,,
 efd97fbc-7c0e-4ffa-9c01-3285864c432d,ensuant.rehab,available,14.99,52.99,low,low,7,name.com,,,
 99a88d6e-f5cb-4631-884a-6e6260ea73f3,version.rehab,available,14.99,,high,low,7,name.com,,,
 85995054-3f6c-43b5-b4c1-02786916ab43,afloat.rehab,available,14.99,,high,low,6,name.com,,,
-80e6c926-489f-48a2-abc9-8f077db926ff,environment.rehab,available,36.99,36.99,medium,low,11,namesilo,,,14/09/2026 05:49
+80e6c926-489f-48a2-abc9-8f077db926ff,environment.rehab,available,38.48,47.48,medium,low,11,namecheap,,,19/09/2026 04:45
 31d2d627-2b42-4f38-a18f-92f49c0250d6,healthier.rehab,available,14.99,,high,low,9,name.com,,,
 afa5d422-1739-4362-88d5-bb342565d3a0,traveler.rehab,available,14.99,,medium,low,8,name.com,,,
 81915e01-5b0f-4e4d-b602-25113477b613,advert.rehab,available,14.99,,high,low,6,name.com,,,
@@ -903,7 +900,7 @@ c0ccbcd6-914d-491a-b123-fc256aa6a5a9,palm.rehab,available,14.99,,high,low,4,name
 5e6a083c-66fa-45de-83c0-c6545dde4fcb,diligent.rehab,available,14.99,52.99,medium,low,8,name.com,,,
 5fda3a59-9315-43d6-9406-958cb53e27d8,pizzashop.rehab,available,14.99,,high,low,10,name.com,,,
 868f082c-4e60-42ec-a237-595a8a8a8030,flexing.rehab,available,14.99,,high,low,7,name.com,,,
-a10a8177-d0e0-45a2-add5-60c03510f993,BlackDeath.rehab,available,14.99,,low,low,11,name.com,,,
+a10a8177-d0e0-45a2-add5-60c03510f993,blackdeath.rehab,available,14.99,,low,low,11,name.com,,,
 6d847070-2ca0-4ba6-9a0a-12f4696657ad,niner.rehab,available,14.99,52.99,low,low,5,name.com,,,
 60044c0c-c749-4e0d-815f-0f6e520ccb26,justlikethat.rehab,available,14.99,,medium,low,14,name.com,,,
 d3ca2bb6-a7c0-4a70-a8ec-9c01c5c377cc,streetlight.rehab,available,14.99,,low,low,12,name.com,,,
@@ -916,11 +913,11 @@ e6c23bdd-f747-45de-864d-5616a55e1033,wharf.rehab,available,14.99,,high,low,5,nam
 3f55714c-d257-47b2-8226-d46e2fdd193c,searchengine.rehab,available,14.99,,high,low,13,name.com,,,
 cc998599-1628-46c7-985c-ded3c8e1e4ec,era.rehab,available,14.99,,high,medium,3,name.com,,,
 ccb3ce1d-2f1d-43f2-8980-f267c91eca2a,taxreturn.rehab,available,14.99,,medium,low,10,name.com,,,
-0198293c-1ea8-46a5-873a-1523dc9f811a,NewTestament.rehab,available,14.99,,low,low,13,name.com,,,
+0198293c-1ea8-46a5-873a-1523dc9f811a,newtestament.rehab,available,14.99,,low,low,13,name.com,,,
 7bc28f7f-eb91-4f2f-9a3f-1ed8d39230ba,bigdeal.rehab,available,14.99,,high,low,8,name.com,,,
 fe296f61-4907-47eb-8bad-30b72f5f442e,whip.rehab,available,14.99,,high,low,4,name.com,,,
 99c4c4b5-83ed-440d-b23f-075d4259dd46,consist.rehab,available,14.99,,high,low,7,name.com,,,
-3baaa0a8-92ff-41f6-b5dc-6a25f88c800e,SriLanka.rehab,available,,,low,low,9,,,,
+3baaa0a8-92ff-41f6-b5dc-6a25f88c800e,srilanka.rehab,available,,,low,low,9,,,,
 9d6e9197-8b3c-432f-927b-01e6a97fe20f,speedup.rehab,available,14.99,,medium,low,8,name.com,,,
 33a51db0-5612-4a32-9ace-d200c91b3079,exemplary.rehab,available,14.99,52.99,high,low,9,name.com,,,
 2cd57ad6-4e95-4332-ac10-11cca644337e,surething.rehab,available,14.99,,high,low,10,name.com,,,
@@ -958,7 +955,6 @@ b104cfd9-a416-4e62-be0c-64c219480a5f,anomic.rehab,available,14.99,52.99,low,low,
 bc3c4219-0198-4136-aed1-0baf6d7e2e4e,azygos.rehab,available,14.99,52.99,low,low,6,name.com,,,08/08/2026 03:32
 76677f66-4380-44c4-976e-a7bf273fab20,pretty.rehab,available,14.99,,high,low,6,name.com,,,
 cb18873d-e8ac-4f94-b44e-4f6e4e4522a4,beady.rehab,available,14.99,52.99,low,low,5,name.com,,,09/08/2026 03:23
-4f1c1a83-2442-45ab-adb8-38157052fd66,office.rehab,available,,,high,low,6,,,,
 6817c9ff-a602-44da-b95f-3aff48ff69a9,voicemail.rehab,available,14.99,,medium,low,10,name.com,,,
 7b999b65-4162-45b6-9fdf-9269485eaacd,dropin.rehab,available,14.99,,high,low,7,name.com,,,
 072f4634-cdc6-4647-8f5a-875637e730ea,upwards.rehab,available,14.99,,medium,low,7,name.com,,,
@@ -996,6 +992,10 @@ d81aea58-2f9e-4e49-b3e7-56f8a908fc2a,bearinmind.rehab,available,14.99,,high,low,
 c41c767c-348c-48bc-86e7-b08f5bf2d571,rush.rehab,available,14.99,,medium,low,4,name.com,,,
 c1ec7c9d-2435-4c4a-91ca-8bd7c478c310,constructive.rehab,available,14.99,,medium,low,12,name.com,,,
 0eb4ea09-94d6-4f45-b537-b28d1026864c,info.rehab,premium,1107,1107,high,medium,4,namesilo,,,
-ff0dc1a7-9916-4537-a3c4-7514e90c984e,artistry.rehab,available,,,high,low,8,,,,
 36266fe1-255e-400e-a4c9-ec505439f0ce,anyway.rehab,available,14.99,,high,low,6,name.com,,,
-92b39574-9015-43da-ab34-5601c6a83b8f,aided.rehab,available,14.99,52.99,high,low,5,name.com,,,
+92b39574-9015-43da-ab34-5601c6a83b8f,aided.rehab,available,36.99,36.99,medium,low,5,namesilo,,,19/09/2026 12:43
+486564b7-f961-493c-a653-4c58701af766,bank.rehab,available,14.99,,high,low,4,name.com,,,
+68f6aaf4-a516-4c92-9636-df041f68a620,audile.rehab,available,14.99,52.99,low,low,6,name.com,,,07/08/2026 16:40
+61589f89-d45d-4da6-9b9e-5cb89e4938bd,incompatible.rehab,available,14.99,,high,low,12,name.com,,,
+efa89759-d4de-455d-bfa3-8bf44f7a5c74,exaggerate.rehab,available,14.99,,high,low,10,name.com,,,
+3c2f5d31-689c-424e-b414-6aed478d6a62,anatomic.rehab,available,14.99,52.99,low,low,8,name.com,,,
