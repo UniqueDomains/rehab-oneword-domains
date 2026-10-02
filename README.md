@@ -1,10 +1,10 @@
-# Available .REHAB One-Word Domains (31,648)
+# Available .REHAB One-Word Domains (33,209)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C648%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C209%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .rehab one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,648 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **33,209 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,648 domains · **Median ask:** $40.94 · **High-demand under $2,500:** 5
+**Public extract:** 1,000 rows · **Live catalog:** 33,209 domains · **Median ask:** $40.71 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/rehab`
 **Best for:** founders, investors, studios
 
@@ -64,23 +64,23 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| aes.rehab    | available | $36.99    | $36.99        | high           | low    | 3      | namesilo         |
+| ahn.rehab    | available | $8.24     | $30.18        | medium         | low    | 3      | dynadot          |
 | brands.rehab | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
 | hot.rehab    | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap        |
-| ahn.rehab    | available | $8.24     | $30.18        | medium         | low    | 3      | dynadot          |
+| ane.rehab    | available | $14.99    | $52.99        | high           | low    | 3      | name.com         |
 | remote.rehab | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC - 7 |
 | isp.rehab    | premium   | $72.60    | $72.60        | high           | low    | 3      | dynadot          |
-| ane.rehab    | available | $14.99    | $52.99        | high           | low    | 3      | name.com         |
-| area.rehab   | premium   | $128.70   | $128.70       | high           | low    | 4      | namecheap        |
 | aum.rehab    | available | $38.48    | $47.48        | high           | low    | 3      | namecheap        |
-| cure.rehab   | premium   | $260      | $260          | high           | low    | 4      | namecheap        |
+| area.rehab   | premium   | $128.70   | $128.70       | high           | low    | 4      | namecheap        |
 | bap.rehab    | available | $38.48    | $47.48        | high           | low    | 3      | namecheap        |
-| male.rehab   | premium   | $260      | $260          | high           | low    | 4      | namecheap        |
+| cure.rehab   | premium   | $260      | $260          | high           | low    | 4      | namecheap        |
 | bel.rehab    | available | $36.99    | $36.99        | high           | low    | 3      | namesilo         |
-| shoe.rehab   | premium   | $250      | —             | high           | low    | 4      | name.com         |
+| male.rehab   | premium   | $260      | $260          | high           | low    | 4      | namecheap        |
 | cfo.rehab    | available | $36.99    | $36.99        | high           | low    | 3      | namesilo         |
-| town.rehab   | premium   | $85.80    | $85.80        | high           | low    | 4      | namecheap        |
+| shoe.rehab   | premium   | $250      | —             | high           | low    | 4      | name.com         |
 | clx.rehab    | available | $14.99    | $52.99        | medium         | low    | 3      | name.com         |
+| town.rehab   | premium   | $85.80    | $85.80        | high           | low    | 4      | namecheap        |
+| dum.rehab    | available | $29.18    | $29.18        | high           | low    | 3      | spaceship        |
 | audio.rehab  | premium   | $207.20   | $207.20       | high           | low    | 5      | spaceship        |
 | eeg.rehab    | available | $29.18    | $29.18        | high           | low    | 3      | spaceship        |
 | farms.rehab  | premium   | $85.80    | $85.80        | medium         | low    | 5      | namecheap        |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,648 live domains                        |
+| 1,000-row public sample | 33,209 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 5 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .REHAB One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .REHAB One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
